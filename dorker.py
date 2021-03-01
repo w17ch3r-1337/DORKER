@@ -5,7 +5,7 @@
 # Coder           : WITCHER
 #
 
-import string, sys, time, urllib2, cookielib, re, random, threading, socket, os, subprocess
+import string, sys, time, urllib2, cookielib, re, random, threading, socket, os, subprocess, webbrowser
 from random import choice
 
 # Colours
